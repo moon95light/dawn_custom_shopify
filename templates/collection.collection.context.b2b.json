@@ -1,0 +1,8 @@
+{
+  "parent": "collection.collection.json",
+  "context": {
+    "b2b": true
+  },
+  "sections": {
+  }
+}
