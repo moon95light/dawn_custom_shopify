@@ -73,13 +73,13 @@
         "template--21141266497831__5a00033a-d4c4-40e0-85c4-e870fb9b4072-slide-1": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "heading": "Quickly",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "Please, receive the today's gift.",
+            "button_label": "Click Here",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "top-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
