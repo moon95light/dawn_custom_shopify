@@ -74,16 +74,16 @@
           "type": "slide",
           "settings": {
             "heading": "Quickly",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "Please, receive the today's gift.",
             "button_label": "Click Here",
-            "link": "",
+            "link": "shopify:\/\/collections\/all",
             "button_style_secondary": false,
             "box_align": "top-left",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -112,7 +112,7 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
-        "slider_visual": "counter",
+        "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "image_behavior": "none",
