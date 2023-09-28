@@ -103,7 +103,7 @@
     "social_instagram_link": "",
     "social_youtube_link": "",
     "social_tiktok_link": "",
-    "social_twitter_link": "",
+    "social_twitter_link": "https:\/\/twitter.com\/antoniotor95",
     "social_snapchat_link": "",
     "social_pinterest_link": "",
     "social_tumblr_link": "",
@@ -136,7 +136,7 @@
     "color_schemes": {
       "background-1": {
         "settings": {
-          "background": "#fff",
+          "background": "#ffffff",
           "background_gradient": "",
           "text": "#121212",
           "button": "#121212",
