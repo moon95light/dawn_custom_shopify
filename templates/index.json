@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "This is my First App",
+            "heading": "This is my <strong>First <\/strong>App",
             "heading_size": "h0"
           }
         },
